@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import sys
+
 encoded_url = ""
 
 def encoder(url):
@@ -11,4 +13,4 @@ def encoder(url):
             encoded_url = encoded_url + character
     print(encoded_url)
 
-encoder("")
+encoder(sys.argv[1])
