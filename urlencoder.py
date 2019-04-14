@@ -11,4 +11,4 @@ def encoder(url):
             encoded_url = encoded_url + character
     print(encoded_url)
 
-encoder("https://stackoverflow.com/questions/10851906/python-3-unboundlocalerror-local-variable-referenced-before-assignment")
+encoder("")
