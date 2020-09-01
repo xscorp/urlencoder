@@ -40,5 +40,5 @@ I personally built it to save my time while testing machines/boxes for XSS vulne
 
 
 ## Created by:
-Shashank Barthwal
+Shashank Barthwal     
 Harshika Negi(harshikanegi7@gmail)
