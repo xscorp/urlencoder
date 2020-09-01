@@ -37,3 +37,8 @@ I personally built it to save my time while testing machines/boxes for XSS vulne
   <li>If you are still getting error, then check if you have passed the mandatory parameter <b>--url</b>. Yea I know it's weird that you need to use --url for everything in urlencoder but it increases readablity of the code. <b>If you don't have any URL to paas for --url flag, just pass any random test string or empty quotes("")</b>
   <li>Why it doesn't support Advance XSS scanning? Well, Right now, I am not armed with enough knowledge so I can't build that for now. But I will surely work on this project later on.
   <li>If you find any bugs in it, feel free to contact me or comment here. 
+
+
+## Created by:
+Shashank Barthwal
+Harshika Negi(harshikanegi7@gmail)
